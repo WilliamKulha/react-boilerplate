@@ -10,7 +10,7 @@
     "lint-fix": "eslint src --ext --fix; exit 0",
     "pretest": "eslint --ignore-path .gitignore app/**/*.js"
   },
-  "author": "",
+  "author": "Kristen and William Kulha",
   "license": "ISC",
   "dependencies": {
     "prop-types": "^15.6.2",
